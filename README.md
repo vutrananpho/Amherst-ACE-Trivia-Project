@@ -5,7 +5,7 @@ Final two-people project for COSC111
 
 Team Introduction
 Team: AP Style
-Professor: Mihaela Malita
+Professor: [Mihaela Malita](https://mmalita.people.amherst.edu)
 Student: Pho Vu, Ada Chen
 
 Project Introduction
@@ -51,13 +51,13 @@ This part entails information of the game developers and the year that the game 
 We hope to attach a website that entails insights about the game.
 Expected Date: May 1st, 2022
 
-Rate Us
+## Rate Us
 This section asks for the player’s opinion regarding the game. The player can give ratings for the game on the scale from 1 to 5 stars. The player can also report personal opinions or errors that he or she finds within the game.
 
 Exit
 If the player clicks on this button, it will take the player to the page with a line that says “Thank you for playing with us. See you soon, Ace!”
 
-Reference
+## Reference
 
 1)  Trivia Time : Multiple Choice Quiz 
 https://play.google.com/store/apps/details?id=com.taplane.triviaquizm&hl=en_US&gl=US
