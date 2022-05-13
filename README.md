@@ -1,4 +1,4 @@
-# ✨Amherst ACE Trivia Project✨
+# ✨Amherst ACE Trivia Quiz✨
 :octocat: FINAL PROJECT FOR COSC111 :octocat:
 
 Introduction to Computer Science I
