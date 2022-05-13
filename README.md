@@ -15,14 +15,14 @@ Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/), Computer Science
 Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/), Mathematics & Asian Languages & Civilizations
 Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/), Computer Science
 
-## Project Introduction
-Game Title: Amherst Ace
+
+```
+Project Introduction
+Game Title: Amherst Ace Trivia Quiz
 Category: Multiple-choice question/trivia
 Tools/Libraries: IntelliJ IDEA, Java, StdDraw, StdAudio, GUI, Java Swing
-Date: April 10, 2022
-
-Expected Completion Date
-May 1, 2022
+Finalization Date: May 13, 2022
+```
 
 ## Purpose
 The project is supposed to educate Amherst students about the history of Amherst College through a set of randomly generated questions.
@@ -66,8 +66,11 @@ If the player clicks on this button, it will take the player to the page with a 
 
 ## Reference
 
-1)  Trivia Time : Multiple Choice Quiz 
+1) Trivia Time : Multiple Choice Quiz 
 https://play.google.com/store/apps/details?id=com.taplane.triviaquizm&hl=en_US&gl=US
 
 2) Trivia Crack
 https://apps.apple.com/us/app/trivia-crack/id651510680
+
+3) Kahoot
+https://kahoot.com
