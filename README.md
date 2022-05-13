@@ -1,5 +1,5 @@
 # Amherst-ACE-Trivia-Project
-Final two-people project for COSC111
+Final Project for COSC111
 
 [COSC111] Introduction to Computer Science I: Team Project Proposal
 
