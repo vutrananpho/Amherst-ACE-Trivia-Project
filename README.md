@@ -24,10 +24,10 @@ Date: April 10, 2022
 Expected Completion Date
 May 1, 2022
 
-Purpose
+## Purpose
 The project is supposed to educate Amherst students about the history of Amherst College through a set of randomly generated questions.
 
-Project Description
+## Project Description
 We want to make a timed general knowledge game that tests students' knowledge about Amherst College history. The game has its title on the main screen with menu buttons. 
 
 The menu includes buttons for game activation, game description (illustrated with “About”), user review (illustrated with “Rate Us”), credits (illustrated with “Credits”), and exit (illustrated with “Quit”).
@@ -46,14 +46,14 @@ rgb(171,219,227)
 rgb(6,57,112)
 rgb(21,76,121)
 
-About The Game
-There are 15-20 multiple-choice questions related to the history of establishment of Amherst College. A login page will appear for game players to enter their username before they can play the game.
+## About The Game
+* There are 15-20 multiple-choice questions related to the history of establishment of Amherst College. A login page will appear for game players to enter their username before they can play the game.
 
-There are four choices for each question. Each choice is illustrated by A, B, C, and D. There is only one correct answer to each question. For each correct answer, the player scores 1 point. If the player gets the question wrong, the player won’t get his/her points deducted. The game has a timer which limits the game to 60 seconds. 
+* There are four choices for each question. Each choice is illustrated by A, B, C, and D. There is only one correct answer to each question. For each correct answer, the player scores 1 point. If the player gets the question wrong, the player won’t get his/her points deducted. The game has a timer which limits the game to 60 seconds. 
 
-In the end, if the player accumulates more than 75% of the total score, the player wins and vice versa. In the case of winning, an upbeat sound effect will play in the background with a happy face and a line that says “Congratulations, our Amherst Ace!” In the case of losing, a downbeat sound effect will play in the background. Alongside that, the screen will demonstrate a line that says “Good luck next time!” with a sad face.
+* In the end, if the player accumulates more than 75% of the total score, the player wins and vice versa. In the case of winning, an upbeat sound effect will play in the background with a happy face and a line that says “Congratulations, our Amherst Ace!” In the case of losing, a downbeat sound effect will play in the background. Alongside that, the screen will demonstrate a line that says “Good luck next time!” with a sad face.
 
-Credits
+## Credits
 This part entails information of the game developers and the year that the game is created.
 We hope to attach a website that entails insights about the game.
 Expected Date: May 1st, 2022
