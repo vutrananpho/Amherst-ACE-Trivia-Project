@@ -1,14 +1,19 @@
-# Amherst-ACE-Trivia-Project
-Final Project for COSC111
+# ✨Amherst-ACE-Trivia-Project✨
+:octocat: FINAL PROJECT FOR COSC111 :octocat:
 
-[COSC111] Introduction to Computer Science I: Team Project Proposal
+Introduction to Computer Science I
+Team Project Proposal
 
 
-```Team Introduction
-Team: AP Style
-Professor: [Mihaela Malita](https://mmalita.people.amherst.edu)
-Students: Pho Vu, Ada Chen, Dat Phan (ptd0301@gmail.com)
-```
+> WE draw code, therefore WE ARE
+
+Item | Note
+------------ | ------------- 
+Team name | AP Style
+Professor | [Mihaela Malita](https://mmalita.people.amherst.edu)
+Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/), Computer Science
+Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/), Mathematics & Asian Languages & Civilizations
+Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/), Computer Science
 
 ## Project Introduction
 Game Title: Amherst Ace
