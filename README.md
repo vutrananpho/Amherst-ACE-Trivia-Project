@@ -7,10 +7,10 @@ Final two-people project for COSC111
 ```Team Introduction
 Team: AP Style
 Professor: [Mihaela Malita](https://mmalita.people.amherst.edu)
-Students: Pho Vu, Ada Chen
+Students: Pho Vu, Ada Chen, Dat Phan (ptd0301@gmail.com)
 ```
 
-Project Introduction
+## Project Introduction
 Game Title: Amherst Ace
 Category: Multiple-choice question/trivia
 Tools/Libraries: IntelliJ IDEA, Java, StdDraw, StdAudio, GUI, Java Swing
