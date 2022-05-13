@@ -3,10 +3,12 @@ Final two-people project for COSC111
 
 [COSC111] Introduction to Computer Science I: Team Project Proposal
 
-Team Introduction
+
+```Team Introduction
 Team: AP Style
 Professor: [Mihaela Malita](https://mmalita.people.amherst.edu)
-Student: Pho Vu, Ada Chen
+Students: Pho Vu, Ada Chen
+```
 
 Project Introduction
 Game Title: Amherst Ace
