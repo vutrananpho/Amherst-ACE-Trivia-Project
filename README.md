@@ -1,4 +1,4 @@
-# ✨Amherst ACE Trivia Quiz✨ ![GitHub Repo stars](https://img.shields.io/github/stars/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/phovu/Amherst-ACE-Trivia-Project?style=social)
+# ✨Amherst ACE Trivia Quiz✨ ![GitHub Repo stars](https://img.shields.io/github/stars/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub top language](https://img.shields.io/github/languages/top/phovu/Amherst-ACE-Trivia-Project)
 :octocat: **FINAL PROJECT FOR COSC111** :octocat:
 
 Introduction to Computer Science I
