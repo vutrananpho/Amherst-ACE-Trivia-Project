@@ -22,9 +22,9 @@ Item | Note
 ------------ | ------------- 
 Team name | AP Style
 Professor | [Mihaela Malita](https://mmalita.people.amherst.edu), Professor of Computer Science
-Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/), Computer Science
-Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/), Mathematics & Asian Languages & Civilizations
-Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/), Computer Science
+Student 1 | [Pho Vu] '23(https://www.linkedin.com/in/phovu/), Computer Science
+Student 2 | [Ada Chen] '25(https://www.linkedin.com/in/ada-chen-8458161ab/), Mathematics & Asian Languages & Civilizations
+Special thanks |  [Dat Phan] '(https://www.linkedin.com/in/pdat23/), Computer Science
 
 ```diff
 + Project Summary
