@@ -1,5 +1,5 @@
 # ✨Amherst ACE Trivia Quiz✨
-:octocat: FINAL PROJECT FOR COSC111 :octocat:
+:octocat: **FINAL PROJECT FOR COSC111** :octocat:
 
 Introduction to Computer Science I
 Team Project Proposal
