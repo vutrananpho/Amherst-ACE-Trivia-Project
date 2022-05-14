@@ -61,7 +61,7 @@ As for the color background, we hope to employ a palette consisting of these col
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
 - ![#191919](https://via.placeholder.com/15/191919/000000?text=+) `#191919`
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c16](https://via.placeholder.com/15/f03c16/000000?text=+) `#f03c15`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
@@ -81,6 +81,7 @@ https://user-images.githubusercontent.com/67770858/168401456-864b8019-a65b-4f44-
 We hope to attach a website that entails insights about the game.
 
 * Expected Date: May 1st, 2022
+* **Updated on May 14th, 2022**: Finished on May 13th, 2022
 
 ## Rate Us :clipboard:
 This section asks for the player’s opinion regarding the game. The player can give ratings for the game on the scale from 1 to 5 stars. The player can also report personal opinions or errors that he or she finds within the game.
@@ -88,7 +89,7 @@ This section asks for the player’s opinion regarding the game. The player can 
 ## Exit :door:
 If the player clicks on this button, it will take the player to the page with a line that says “Thank you for playing with us. See you soon, Ace!”
 
-## Reference :pushpin:
+## References :pushpin:
 
 1) [Trivia Time : Multiple Choice Quiz](https://play.google.com/store/apps/details?id=com.taplane.triviaquizm&hl=en_US&gl=US)
 <img width="554" alt="trivia-time" src="https://user-images.githubusercontent.com/67770858/168414268-ff844fa9-d9a5-4811-915a-72696dc5ec4d.png">
