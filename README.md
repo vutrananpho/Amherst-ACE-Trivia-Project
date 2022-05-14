@@ -77,9 +77,10 @@ As for the color background, we hope to employ a palette consisting of these col
 https://user-images.githubusercontent.com/67770858/168401456-864b8019-a65b-4f44-98df-f72914a85089.mp4
 
 ## Credits :memo:
-This part entails information of the game developers and the year that the game is created.
+* This part entails information of the game developers and the year that the game is created.
 We hope to attach a website that entails insights about the game.
-Expected Date: May 1st, 2022
+
+* Expected Date: May 1st, 2022
 
 ## Rate Us :clipboard:
 This section asks for the player’s opinion regarding the game. The player can give ratings for the game on the scale from 1 to 5 stars. The player can also report personal opinions or errors that he or she finds within the game.
