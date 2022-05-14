@@ -61,7 +61,7 @@ As for the color background, we hope to employ a palette consisting of these col
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
 - ![#191919](https://via.placeholder.com/15/191919/000000?text=+) `#191919`
 
-- ![#f03c16](https://via.placeholder.com/15/f03c16/000000?text=+) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
