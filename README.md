@@ -58,8 +58,8 @@ As for the color background, we hope to employ a palette consisting of these col
 
 - ![#7c02ff](http://via.placeholder.com/20/7c02ff/7c02ff) `#7c02ff`
 - ![#19ff00](http://via.placeholder.com/20/19ff00/19ff00) `#19ff00`
-- ![#ffffff](https://via.placeholder.com/20/ffffff/ffffff) `#ffffff`
-- ![#00000](https://via.placeholder.com/20/00000/00000) `#00000`
+- ![1d1f21](http://via.placeholder.com/20/1d1f21/1d1f21) `#1d1f21`
+- ![f8f8f8](http://via.placeholder.com/20/f8f8f8/f8f8f8) `#f8f8f8`
 
 ## About The Game :video_game:
 * There are 15-20 multiple-choice questions related to the history of establishment of Amherst College. A login page will appear for game players to enter their username before they can play the game.
