@@ -56,7 +56,7 @@ The game screen will display the accumulated score of the player as he/she moves
 
 As for the color background, we hope to employ a palette consisting of these colors below:
 
-- ![#7C02FF](https://via.placeholder.com/15/7c02ff/000000?text=+) `#7C02FF`
+- ![#7C02FF](http://via.placeholder.com/20/7C02FF/7C02FF) `#7C02FF`
 - ![#19FF00](https://via.placeholder.com/15/19FF00/000000?text=+) `#19FF00`
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
 - ![#191919](https://via.placeholder.com/15/191919/000000?text=+) `#191919`
