@@ -19,7 +19,7 @@ Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/), Computer Scie
 :memo: Project 
 Game Title: Amherst Ace Trivia Quiz
 Category: Multiple-choice question/trivia
-Tools/Libraries: IntelliJ IDEA, Java, StdDraw, StdAudio, GUI, Java Swing
+Tools/Libraries: IntelliJ IDEA, Java Swing, Swing UI Designer
 Finalization Date: May 13, 2022
 ```
 
