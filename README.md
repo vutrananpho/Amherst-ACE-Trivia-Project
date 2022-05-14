@@ -37,7 +37,7 @@ The menu includes buttons for game activation, game description (illustrated wit
 The game screen will display the accumulated score of the player as he/she moves to the next round. The function for the score section adds up the score attained from each round.
 
 As for the color background, we hope to employ a palette consisting of these colors below:
-![#7C02FF](https://via.placeholder.com/15/7C02FF/000000?text=+) `#7C02FF`
+![#7C02FF](https://via.placeholder.com/15/7c02ff/000000?text=+) `#7C02FF`
 ![#19FF00](https://via.placeholder.com/15/19FF00/000000?text=+) `#19FF00`
 ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
 ![#191919](https://via.placeholder.com/15/#191919/FFFFFF?text=+) `#191919`
