@@ -4,6 +4,17 @@
 Introduction to Computer Science I
 Team Project Proposal
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
 
 > WE draw code, therefore WE ARE
 
@@ -15,17 +26,27 @@ Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/), Computer Science
 Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/), Mathematics & Asian Languages & Civilizations
 Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/), Computer Science
 
-```
-:memo: Project 
-Game Title: Amherst Ace Trivia Quiz
-Category: Multiple-choice question/trivia
-Tools/Libraries: IntelliJ IDEA, Java Swing, Swing UI Designer
-Finalization Date: May 13, 2022
+```diff
++ Project Summary
++ Game Title: Amherst Ace Trivia Quiz
++ Category: Multiple-choice question/trivia
++ Tools/Libraries: IntelliJ IDEA, Java Swing, Swing UI Designer
++ Finalization Date: May 13, 2022
 ```
 
-## Purpose :package:
-The project is supposed to educate Amherst students about the history of Amherst College through a set of randomly generated questions.
-![gamedemo]
+## Problem identification, statement, & solutions :package:
+*The project is supposed to educate Amherst students about the history of Amherst College through a set of randomly generated questions.
+  *Statement: The project is supposed to educate Amherst students about the history of Amherst College through a set of randomly generated questions.
+    *Solutions: osdiso
+    *Sjdhsjd
+      
+
+
+## Prototyping
+
+<img width="781" alt="prototyping" src="https://user-images.githubusercontent.com/67770858/168407722-a6d9be39-6c64-4705-a842-7f8951f64fd6.png">
+
+
 
 
 ## Project Description :page_with_curl:
@@ -40,7 +61,7 @@ As for the color background, we hope to employ a palette consisting of these col
 - ![#7C02FF](https://via.placeholder.com/15/7c02ff/000000?text=+) `#7C02FF`
 - ![#19FF00](https://via.placeholder.com/15/19FF00/000000?text=+) `#19FF00`
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
-- ![#191919](https://via.placeholder.com/15/#191919/FFFFFF?text=+) `#191919`
+- ![#191919](https://via.placeholder.com/15/#191919/000000?text=+) `#191919`
 
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
@@ -69,13 +90,16 @@ If the player clicks on this button, it will take the player to the page with a 
 
 ## Reference :pushpin:
 
-1) Trivia Time : Multiple Choice Quiz 
-https://play.google.com/store/apps/details?id=com.taplane.triviaquizm&hl=en_US&gl=US
-
-2) Trivia Crack
-https://apps.apple.com/us/app/trivia-crack/id651510680
-
-3) Kahoot
-https://kahoot.com
+1) [Trivia Time : Multiple Choice Quiz](https://play.google.com/store/apps/details?id=com.taplane.triviaquizm&hl=en_US&gl=US)
 
 
+
+
+
+2) [Trivia Crack](https://apps.apple.com/us/app/trivia-crack/id651510680)
+
+
+
+
+3) [Kahoot](https://kahoot.com)
+<img width="1308" alt="Kahoot" src="https://user-images.githubusercontent.com/67770858/168407651-f3394489-0aa7-47d9-ade3-31c04e6b15f7.png">
