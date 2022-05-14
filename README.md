@@ -56,15 +56,10 @@ The game screen will display the accumulated score of the player as he/she moves
 
 As for the color background, we hope to employ a palette consisting of these colors below:
 
-- ![#7C02FF](http://via.placeholder.com/20/7C02FF/7C02FF) `#7C02FF`
-- ![#19FF00](https://via.placeholder.com/15/19FF00/000000?text=+) `#19FF00`
-- ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
-- ![#191919](https://via.placeholder.com/15/191919/000000?text=+) `#191919`
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
-
+- ![#7c02ff](http://via.placeholder.com/20/7c02ff/7c02ff) `#7c02ff`
+- ![#19ff00](http://via.placeholder.com/20/19ff00/19ff00) `#19ff00`
+- ![#ffffff](https://via.placeholder.com/20/ffffff/ffffff) `#ffffff`
+- ![#191919](https://via.placeholder.com/20/191919/191919) `#191919`
 
 ## About The Game :video_game:
 * There are 15-20 multiple-choice questions related to the history of establishment of Amherst College. A login page will appear for game players to enter their username before they can play the game.
