@@ -15,7 +15,6 @@ Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/), Computer Science
 Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/), Mathematics & Asian Languages & Civilizations
 Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/), Computer Science
 
-
 ```
 :memo: Project 
 Game Title: Amherst Ace Trivia Quiz
@@ -26,6 +25,9 @@ Finalization Date: May 13, 2022
 
 ## Purpose
 The project is supposed to educate Amherst students about the history of Amherst College through a set of randomly generated questions.
+![gamedemo]
+
+(https://user-images.githubusercontent.com/67770858/168405754-437751a4-67d1-48ad-8ebe-8ef0ebd866f2.gif)
 
 ## Project Description
 We want to make a timed general knowledge game that tests students' knowledge about Amherst College history. The game has its title on the main screen with menu buttons. 
@@ -53,6 +55,10 @@ rgb(21,76,121)
 
 * In the end, if the player accumulates more than 75% of the total score, the player wins and vice versa. In the case of winning, an upbeat sound effect will play in the background with a happy face and a line that says “Congratulations, our Amherst Ace!” In the case of losing, a downbeat sound effect will play in the background. Alongside that, the screen will demonstrate a line that says “Good luck next time!” with a sad face.
 
+
+## Outcome
+https://user-images.githubusercontent.com/67770858/168401456-864b8019-a65b-4f44-98df-f72914a85089.mp4
+
 ## Credits
 This part entails information of the game developers and the year that the game is created.
 We hope to attach a website that entails insights about the game.
@@ -61,7 +67,7 @@ Expected Date: May 1st, 2022
 ## Rate Us
 This section asks for the player’s opinion regarding the game. The player can give ratings for the game on the scale from 1 to 5 stars. The player can also report personal opinions or errors that he or she finds within the game.
 
-Exit
+## Exit
 If the player clicks on this button, it will take the player to the page with a line that says “Thank you for playing with us. See you soon, Ace!”
 
 ## Reference
@@ -74,3 +80,5 @@ https://apps.apple.com/us/app/trivia-crack/id651510680
 
 3) Kahoot
 https://kahoot.com
+
+
