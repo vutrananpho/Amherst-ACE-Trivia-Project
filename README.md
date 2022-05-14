@@ -94,7 +94,7 @@ If the player clicks on this button, it will take the player to the page with a 
 <img width="554" alt="trivia-time" src="https://user-images.githubusercontent.com/67770858/168414268-ff844fa9-d9a5-4811-915a-72696dc5ec4d.png">
 
 2) [Trivia Crack](https://apps.apple.com/us/app/trivia-crack/id651510680)
-<img width="1029" alt="trivia-crack" src="https://user-images.githubusercontent.com/67770858/168414294-5c7a398c-5cb8-4969-a95b-892cbe67f8a0.png">
+<img width="1005" alt="trivia-crack" src="https://user-images.githubusercontent.com/67770858/168414316-f0dbb4be-670d-43e0-b746-3347eceaf4c0.png">
 
 3) [Kahoot](https://kahoot.com)
 <img width="1308" alt="Kahoot" src="https://user-images.githubusercontent.com/67770858/168407651-f3394489-0aa7-47d9-ade3-31c04e6b15f7.png">
