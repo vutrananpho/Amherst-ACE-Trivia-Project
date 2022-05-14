@@ -1,4 +1,4 @@
-# ✨Amherst ACE Trivia Quiz✨
+# ✨Amherst ACE Trivia Quiz✨ ![GitHub Repo stars](https://img.shields.io/github/stars/phovu/Amherst-ACE-Trivia-Project?style=social)
 :octocat: **FINAL PROJECT FOR COSC111** :octocat:
 
 Introduction to Computer Science I
