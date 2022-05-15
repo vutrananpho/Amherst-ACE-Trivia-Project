@@ -6,10 +6,10 @@ Introduction to Computer Science I
 
 Project Proposal
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-    <ol>
+><!-- TABLE OF CONTENTS -->
+><details>
+>  <summary>Table of Contents</summary>
+>    <ol>
 >      <li><a href="#team-info">Team Info</a></li>
 >      <li><a href="#project-summary">Project Summary</a></li>
 >      <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
@@ -58,7 +58,7 @@ Project Proposal
 </details>
 -->
 
-> WE draw code, therefore WE ARE
+> *WE draw code, therefore WE ARE*
 
 ## Team Info
 Item | Note
