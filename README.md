@@ -8,17 +8,15 @@ Project Proposal
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
+>[Team Infor](#team-info)
+>[Problem identification, statement, & solutions](#problem-identification-,-statement-,-&-solutions)
+    
 </p>
 </details>
 
 > WE draw code, therefore WE ARE
 
+## Team Info
 Item | Note
 ------------ | ------------- 
 Team name | AP Style
