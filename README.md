@@ -64,10 +64,10 @@ Project Proposal
 Item | Note
 ------------ | ------------- 
 Team name | AP Style
-Professor | [Mihaela Malita](https://mmalita.people.amherst.edu), Professor of Computer Science
-Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/) '23, Computer Science
-Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/) '25, Mathematics & Asian Languages & Civilizations
-Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer Science
+Professor | [Mihaela Malita](https://mmalita.people.amherst.edu), Professor of Computer Science :computer:
+Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/) '23, Computer Science :computer:
+Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/) '25, Mathematics & Asian Languages & Civilizations :1234: + :shinto_shrine:
+Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer Science :computer:
 
 ## Project Summary
 ```diff
