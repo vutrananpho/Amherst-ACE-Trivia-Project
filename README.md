@@ -9,22 +9,21 @@ Project Proposal
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
       <li><a href="#team-info">Team Info</a></li>
       <li><a href="#project-summary">Project Summary</a></li>
       <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
       <li><a href="#prototyping">Prototyping</a></li>
       <li><a href="#about-the-game">About The Game</a></li>
     <ul>
-      <li><a href="#outcome">Outcome</a></li>
-      <li><a href="#credits">Credits</a></li>
-      <li><a href="#rate-us">Rate Us</a></li>
-      <li><a href="#exit">Exit(Quit)</a></li>
-      <li><a href="#references">References</a></li>
-      <li><a href="#contributing">Contributing</a></li>
-      <li><a href="#license">License</a></li>
-      <li><a href="#contact">Contact</a></li>
-      <li><a href="#acknowledgments">Acknowledgments</a></li>
+      <li><a href="##outcome">Outcome</a></li>
+      <li><a href="##credits">Credits</a></li>
+      <li><a href="##rate-us">Rate Us</a></li>
+      <li><a href="##exit">Exit(Quit)</a></li>
+      <li><a href="##references">References</a></li>
+      <li><a href="##contributing">Contributing</a></li>
+      <li><a href="##license">License</a></li>
+      <li><a href="##contact">Contact</a></li>
+      <li><a href="##acknowledgments">Acknowledgments</a></li>
      </ul>
     </li>
   </ol>
