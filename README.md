@@ -8,8 +8,10 @@ Project Proposal
 <details><summary>CLICK ME</summary>
 <p>
 
->[Team Infor](#team-info)
+>[Team Info](#team-info)
+>    
 >[Problem identification, statement, & solutions](#problem-identification-,-statement-,-&-solutions)
+>
     
 </p>
 </details>
