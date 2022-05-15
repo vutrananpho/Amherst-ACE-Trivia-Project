@@ -1,4 +1,5 @@
-# ✨Amherst ACE Trivia Quiz✨ ![GitHub Repo stars](https://img.shields.io/github/stars/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub top language](https://img.shields.io/github/languages/top/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/phovu/Amherst-ACE-Trivia-Project?style=social)
+# ✨Amherst ACE Trivia Quiz✨ ![GitHub Repo stars](https://img.shields.io/github/stars/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/phovu/Amherst-ACE-Trivia-Project?style=social) ![GitHub top language](https://img.shields.io/github/languages/top/phovu/Amherst-ACE-Trivia-Project?style=social)
+<!-- ![GitHub watchers](https://img.shields.io/github/watchers/phovu/Amherst-ACE-Trivia-Project?style=social)-->
 :octocat: **FINAL PROJECT FOR COSC111** :octocat:
 
 Introduction to Computer Science I
@@ -13,6 +14,7 @@ Project Proposal
       <li><a href="#project-summary">Project Summary</a></li>
       <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
       <li><a href="#prototyping">Prototyping</a></li>
+      <li><a href="#project-escription">Project Description</a></li>
       <li><a href="#about-the-game">About The Game</a></li>
     <ul>
       <li><a href="#outcome">Outcome</a></li>
@@ -83,8 +85,7 @@ Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer 
     * Solution 2:
     * Solution 3:
 
-## 🖥️ ## Prototyping
-
+## 🖥️  ## Prototyping
 <img width="781" alt="prototyping" src="https://user-images.githubusercontent.com/67770858/168407722-a6d9be39-6c64-4705-a842-7f8951f64fd6.png">
 
 
