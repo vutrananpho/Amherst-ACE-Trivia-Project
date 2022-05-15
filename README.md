@@ -5,17 +5,31 @@ Introduction to Computer Science I
 
 Project Proposal
 
-<details><summary>CLICK ME</summary>
-<p>
-
->[Team Info](#team-info)
->    
->[Problem identification, statement, & solutions](#problem-identification-,-statement-,-&-solutions)
->
-    
-</p>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#team-info">Team Info</a>
+      <ul>
+        <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
 </details>
-
 > WE draw code, therefore WE ARE
 
 ## Team Info
@@ -35,13 +49,12 @@ Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer 
 + Finalization Date: May 13, 2022
 ```
 
-## Problem identification, statement, & solutions :package:
+## Problem Identification, Statement, & Solutions :package:
 * Amherst students may lack the knowledge about their school 
   * Statement: We want to build a special project that helps  students learn about the history of Amherst College through a set of questions aiming at training muscle memory.
-    * Solutions: osdiso
-    * Sjdhsjd
-      
-
+    * Solution 1: 
+    * Solution 2:
+    * Solution 3:
 
 ## Prototyping 🖥️
 
