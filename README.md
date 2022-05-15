@@ -10,13 +10,39 @@ Project Proposal
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <li><a href="#team-info">Team Info</a></li>
+      <li><a href="#project-summary">Project Summary</a></li>
+      <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
+      <li><a href="#prototyping">Prototyping</a></li>
+      <li><a href="#about-the-game">About The Game</a></li>
+    <ul>
+      <li><a href="#outcome">Outcome</a></li>
+      <li><a href="#credits">Credits</a></li>
+      <li><a href="#rate-us">Rate Us</a></li>
+      <li><a href="#exit">Exit(Quit)</a></li>
+      <li><a href="#references">References</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+      <li><a href="#license">License</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#acknowledgments">Acknowledgments</a></li>
+     </ul>
+    </li>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
       <a href="#team-info">Team Info</a>
+      <a href="#project-summary">Project Summary</a>
       <ul>
         <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#prototyping">Prototyping</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -30,6 +56,8 @@ Project Proposal
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+-->
+
 > WE draw code, therefore WE ARE
 
 ## Team Info
@@ -41,8 +69,8 @@ Student 1 | [Pho Vu](https://www.linkedin.com/in/phovu/) '23, Computer Science
 Student 2 | [Ada Chen](https://www.linkedin.com/in/ada-chen-8458161ab/) '25, Mathematics & Asian Languages & Civilizations
 Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer Science
 
+## Project Summary
 ```diff
-+ Project Summary
 + Game Title: Amherst Ace Trivia Quiz
 + Category: Multiple-choice question/trivia
 + Tools/Libraries: IntelliJ IDEA, Java Swing, Swing UI Designer
@@ -82,20 +110,20 @@ As for the color background, we hope to employ a palette consisting of these col
 
 * In the end, if the player accumulates more than 75% of the total score, the player wins and vice versa. In the case of winning, an upbeat sound effect will play in the background with a happy face and a line that says “Congratulations, our Amherst Ace!” In the case of losing, a downbeat sound effect will play in the background. Alongside that, the screen will demonstrate a line that says “Good luck next time!” with a sad face.
 
-## Outcome :trophy:
+### Outcome :trophy:
 https://user-images.githubusercontent.com/67770858/168401456-864b8019-a65b-4f44-98df-f72914a85089.mp4
 
-## Credits :memo:
+### Credits :memo:
 * This part entails information of the game developers and the year that the game is created.
 We hope to attach a website that entails insights about the game.
 
 * Expected Date: May 1st, 2022
 * **Updated on May 14th, 2022**: Finished on May 13th, 2022
 
-## Rate Us :clipboard:
+### Rate Us :clipboard:
 This section asks for the player’s opinion regarding the game. The player can give ratings for the game on the scale from 1 to 5 stars. The player can also report personal opinions or errors that he or she finds within the game.
 
-## Exit :door:
+### Exit :door:
 If the player clicks on this button, it will take the player to the page with a line that says “Thank you for playing with us. See you soon, Ace!”
 
 ## References :pushpin:
