@@ -76,6 +76,8 @@ Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer 
 + Tools/Libraries: IntelliJ IDEA, Java Swing, Swing UI Designer
 + Finalization Date: May 13, 2022
 ```
+## What is Java Swing & Swing UI Designer
+You may create your GUI program with the aid of the Swing UI Designer.With Swing UIDesigner, you can design your GUI Form by “drag and drop style”. With Swing UI Designer, youdo not need to do hard coding for all parts of your GUI program.With Swing UI Designer, some codes are automatically created as you add and set the properties of an element of your GUI.
 
 ## Problem Identification, Statement, & Solutions
 * Amherst students may lack the knowledge about their school 
@@ -135,3 +137,5 @@ If the player clicks on this button, it will take the player to the page with a 
 
 3) [Kahoot](https://kahoot.com)
 <img width="1308" alt="Kahoot" src="https://user-images.githubusercontent.com/67770858/168407651-f3394489-0aa7-47d9-ade3-31c04e6b15f7.png">
+
+## Glossary
