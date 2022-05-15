@@ -12,7 +12,7 @@ Project Proposal
       <li><a href="#team-info">Team Info</a></li>
       <li><a href="#project-summary">Project Summary</a></li>
       <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
-      <li><a href="#prototyping-:package:">Prototyping</a></li>
+      <li><a href="#prototyping-:-package-:-">Prototyping</a></li>
       <li><a href="#about-the-game">About The Game</a></li>
     <ul>
       <li><a href="#outcome">Outcome</a></li>
