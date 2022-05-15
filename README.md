@@ -79,6 +79,12 @@ Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer 
 ## What is Java Swing & Swing UI Designer
 You may create your GUI program with the aid of the Swing UI Designer.With Swing UIDesigner, you can design your GUI Form by “drag and drop style”. With Swing UI Designer, youdo not need to do hard coding for all parts of your GUI program.With Swing UI Designer, some codes are automatically created as you add and set the properties of an element of your GUI.
 
+<img width="1137" alt="swing-ui-designer-form" src="https://user-images.githubusercontent.com/67770858/168491313-f35fb114-546e-47a0-8030-e454aa5be354.png">
+
+<img width="550" alt="automatically-generated-ui-page" src="https://user-images.githubusercontent.com/67770858/168491315-1a04f85c-83a6-48c4-9ab5-02b1234daebf.png">
+
+
+
 ## Problem Identification, Statement, & Solutions
 * Amherst students may lack the knowledge about their school 
   * Statement: We want to build a special project that helps  students learn about the history of Amherst College through a set of questions aiming at training muscle memory.
