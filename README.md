@@ -7,9 +7,9 @@ Introduction to Computer Science I
 Project Proposal
 
 <!-- TABLE OF CONTENTS -->
-><details>
->  <summary>Table of Contents</summary>
->  <ol>
+<details>
+  <summary>Table of Contents</summary>
+    <ol>
 >      <li><a href="#team-info">Team Info</a></li>
 >      <li><a href="#project-summary">Project Summary</a></li>
 >      <li><a href="#problem-identification-,-statement-,-&-solutions">Problem Identification, Statement, & Solutions</a></li>
@@ -27,7 +27,6 @@ Project Proposal
 >      <li><a href="#contact">Contact</a></li>
 >      <li><a href="#acknowledgments">Acknowledgments</a></li>
 >     </ul>
-    </li>
   </ol>
 </details>
 
