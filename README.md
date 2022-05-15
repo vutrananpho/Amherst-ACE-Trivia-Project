@@ -78,14 +78,14 @@ Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer 
 + Finalization Date: May 13, 2022
 ```
 
-## :package: ## Problem Identification, Statement, & Solutions
+## :package:  ## Problem Identification, Statement, & Solutions
 * Amherst students may lack the knowledge about their school 
   * Statement: We want to build a special project that helps  students learn about the history of Amherst College through a set of questions aiming at training muscle memory.
     * Solution 1: 
     * Solution 2:
     * Solution 3:
 
-## 🖥️  ## Prototyping
+## Prototyping
 <img width="781" alt="prototyping" src="https://user-images.githubusercontent.com/67770858/168407722-a6d9be39-6c64-4705-a842-7f8951f64fd6.png">
 
 
