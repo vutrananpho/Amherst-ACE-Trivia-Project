@@ -88,7 +88,7 @@ Special thanks |  [Dat Phan](https://www.linkedin.com/in/pdat23/) '23, Computer 
 <img width="781" alt="prototyping" src="https://user-images.githubusercontent.com/67770858/168407722-a6d9be39-6c64-4705-a842-7f8951f64fd6.png">
 
 
-## :page_with_curl: ## Project Description
+## Project Description
 We want to make a timed general knowledge game that tests students' knowledge about Amherst College history. The game has its title on the main screen with menu buttons. 
 
 The menu includes buttons for game activation, game description (illustrated with “About”), user review (illustrated with “Rate Us”), credits (illustrated with “Credits”), and exit (illustrated with “Quit”).
